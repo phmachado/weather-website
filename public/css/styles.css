@@ -74,6 +74,10 @@ a:hover {
     opacity: 0.5;
 }
 
+#message-1 {
+    font-style: oblique;
+}
+
 #message-2 {
     font-weight: bold;
 }
